@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242862702499",
+    "project_id": "mathguru-d6b4c",
+    "storage_bucket": "mathguru-d6b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242862702499:android:431b8aedf449da7ad8e416",
+        "android_client_info": {
+          "package_name": "com.example.mathguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242862702499-5hjfmuhn7aj3u3ju76e7kpm090v0hkgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5aSsEOFBDzRppOAc7OC9nISdPaqorNIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242862702499-5hjfmuhn7aj3u3ju76e7kpm090v0hkgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
