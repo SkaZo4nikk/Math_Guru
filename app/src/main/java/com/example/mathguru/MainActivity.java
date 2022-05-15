@@ -48,9 +48,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         findViewById(R.id.buttonAuth).setOnClickListener(this);
         findViewById(R.id.buttonReg).setOnClickListener(this);
-
-        Intent intent = new Intent(MainActivity.this, MathTest.class);
-        startActivity(intent);
     }
 
     @Override
