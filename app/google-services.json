@@ -1,33 +1,42 @@
 {
   "project_info": {
-    "project_number": "242862702499",
-    "project_id": "mathguru-d6b4c",
-    "storage_bucket": "mathguru-d6b4c.appspot.com"
+    "project_number": "245409394005",
+    "firebase_url": "https://math-guru-8b85c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "math-guru-8b85c",
+    "storage_bucket": "math-guru-8b85c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:242862702499:android:431b8aedf449da7ad8e416",
+        "mobilesdk_app_id": "1:245409394005:android:2253b23b1bca84e2d493dc",
         "android_client_info": {
           "package_name": "com.example.mathguru"
         }
       },
       "oauth_client": [
         {
-          "client_id": "242862702499-5hjfmuhn7aj3u3ju76e7kpm090v0hkgi.apps.googleusercontent.com",
+          "client_id": "245409394005-119p5hv173sovi6opj8qmfbprhc5e5um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mathguru",
+            "certificate_hash": "6d2d9112bd07c8ee3caa0ab194899cde01d81ced"
+          }
+        },
+        {
+          "client_id": "245409394005-8cp3seho4ucg34ipjdgfflm4u23uqha3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD5aSsEOFBDzRppOAc7OC9nISdPaqorNIA"
+          "current_key": "AIzaSyAJAKh-zxJ5F55EsQIZEkRTlUhN05hMT_w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "242862702499-5hjfmuhn7aj3u3ju76e7kpm090v0hkgi.apps.googleusercontent.com",
+              "client_id": "245409394005-8cp3seho4ucg34ipjdgfflm4u23uqha3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

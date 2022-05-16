@@ -104,7 +104,7 @@ public class MathTest extends AppCompatActivity {
 
     private void CreateButtons(){
         Random rd = new Random();
-        List<Integer> list = Arrays.asList(ans + rd.nextInt(20), ans + rd.nextInt(20), ans + rd.nextInt(20), ans);
+        List<Integer> list = Arrays.asList(ans + (rd.nextInt(20) + 1), ans + (rd.nextInt(20) + 1), ans + (rd.nextInt(20) + 1), ans);
         Collections.shuffle(list); //перемешиваем массив
         FirstButton.setText(String.valueOf(list.get(0)));
         SecondButton.setText(String.valueOf(list.get(1)));
